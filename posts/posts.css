@@ -1,0 +1,11 @@
+.posts{
+    background-color: papayawhip;
+    border: 2px solid lightcoral;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    padding: 30px;
+}
+h1{
+    margin-top: 5%;
+    padding-bottom: 2%;
+}
